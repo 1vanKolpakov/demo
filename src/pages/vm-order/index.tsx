@@ -6,6 +6,7 @@ const VmOrderPage: React.FC = () => (
     <p>Страница в разработке — здесь будет форма заказа ВМ.</p>
     <p>DEPLOY ТЕСТ АВТО ДЕПЛОЯ</p>
     <p>dev branch</p>
+    <p>test revert</p>
   </div>
 );
 
